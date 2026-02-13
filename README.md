@@ -1,4 +1,4 @@
-# Power Forecast ML Pipeline (Portfolio)
+# Power Forecast ML Pipeline
 
 This repository is a demonstrating an end‑to‑end, reproducible **time series regression pipeline** for energy consumption forecasting.
 
