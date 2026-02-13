@@ -1,4 +1,4 @@
-# Teaching & Assessment Notes (Senior Lecturer)
+# Teaching & Assessment Notes
 
 ## Recommended course placement
 - BSc (Sem 4–6): Applied Machine Learning / Data Analytics
