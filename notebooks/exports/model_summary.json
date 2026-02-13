@@ -1,0 +1,7 @@
+{
+  "model": "HistGradientBoosting",
+  "mae": 52.27997347616556,
+  "rmse": 63.69489429442844,
+  "n_train_days": 365,
+  "forecast_horizon": 30
+}
